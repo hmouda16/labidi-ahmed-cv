@@ -12,7 +12,7 @@ window.addEventListener("scroll", () => {
 // TYPED
 var typed = new Typed(".typed", {
   strings: [
-    "Bonjour,je me présente je m'appelle Ahmed . De formation professionnelle en climatisation et livraison . Aujourd'hui je souhaiterais m'orienter vers une profession qui conviendrait à mes objectifs personnels. Depuis près de 6 mois j'ai décidé de me lancer en autodidacte dans l'apprentissage du code après mon travail dont j'ai démissionnée aujourd'hui pour pouvoir me former et acquérir plus d'expérience dans le domaine et en faire mon métier . Aujourd'hui Je suis actuellement à la recherche d'une entreprise pour une  alternance en développement web & web mobile.",
+    "Bonjour, je me présente je m'appelle Ahmed . Actuellement en formation au GRETA depuis le 7 novembre 2022 en développement web & web mobile, je viens vers vous pour une demande de stage .En formation nous apprenons les languages suivant  : HTML/CSS, JAVASCRIPT, PHP et MYSQL."
   ],
   typeSpeed: 5,
   backSpeed: 0,
