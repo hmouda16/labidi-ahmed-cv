@@ -12,7 +12,7 @@ window.addEventListener("scroll", () => {
 // TYPED
 var typed = new Typed(".typed", {
   strings: [
-    "Bonjour, je me présente je m'appelle Ahmed . Actuellement en formation au GRETA depuis le 7 novembre 2022 en développement web & web mobile, je viens vers vous pour une demande de stage .En formation nous apprenons les languages suivant  : HTML/CSS, JAVASCRIPT, PHP et MYSQL."
+    "Bonjour, je me présente je m'appelle Ahmed . Actuellement en formation au GRETA depuis le 7 novembre2022 en développement web & web mobile, je viens vers vous pour une demande de stage .En formation nous apprenons les languages suivant : HTML/CSS, JAVASCRIPT, PHP, MYSQL, Node.js et Android studio."
   ],
   typeSpeed: 5,
   backSpeed: 0,
