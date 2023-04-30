@@ -195,14 +195,24 @@ header .button:hover a {
 /*EXPERIENCE*/
 
 #experience {
-  opacity: 0; /* La section est initialement cachée */
+  opacity: 0; 
 }
 
-/* Ajoutez cette animation à la section pour la faire apparaître avec un fondu */
+
 #experience.fadeIn {
   opacity: 1;
   transition: opacity 1s ease-in-out;
 }
+
+/* portfolio */
+#portfolio{
+  background-color: #281e03;
+}
+
+.titre {
+  color: #e2dedb;
+}
+
 
 /*********************** PARCOURS ****************/
 #parcours {
