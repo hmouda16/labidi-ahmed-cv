@@ -1,0 +1,81 @@
+/* styles.css */
+
+/* Réinitialisation des styles par défaut */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f5f5f5;
+  }
+  
+  header {
+    background-color: #333;
+    padding: 20px;
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  #hero {
+    background-image: url('background-image.jpg'); /* Remplacez par votre image de fond */
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 100px;
+  }
+  
+  .hero-content h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+  }
+  
+  .hero-content h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #fff;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  #about h2,
+  #projects h2,
+  #contact h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: 14px;
+  }
+  
+  

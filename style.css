@@ -206,11 +206,11 @@ header .button:hover a {
 
 /* portfolio */
 #portfolio{
-  background-color: #281e03;
+  background-color: #fbf9f7;
 }
 
 .titre {
-  color: #e2dedb;
+  color: #444444;
 }
 
 
@@ -716,3 +716,5 @@ footer p {
     padding: 10px 15px;
   }
 }
+
+
