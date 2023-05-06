@@ -1,6 +1,4 @@
-/* styles.css */
 
-/* Réinitialisation des styles par défaut */
 * {
     margin: 0;
     padding: 0;
@@ -33,7 +31,7 @@
   }
   
   #hero {
-    background-image: url('background-image.jpg'); /* Remplacez par votre image de fond */
+    background-image: url('background-image.jpg'); 
     background-size: cover;
     background-position: center;
     color: #fff;
