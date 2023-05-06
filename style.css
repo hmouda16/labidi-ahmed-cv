@@ -216,9 +216,12 @@ header .button:hover a {
 }
 
 
-.card-height {
-  height: 400px; /* Définissez la hauteur souhaitée pour les cartes */
+.card-img-top {
+  height: auto;
+  object-fit: cover;
 }
+
+
 
 
 /*********************** PARCOURS ****************/
