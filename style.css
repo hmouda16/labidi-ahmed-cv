@@ -222,6 +222,18 @@ header .button:hover a {
 }
 
 
+@media (max-width: 576px) {
+  .card-body {
+    padding: 10px;
+  }
+  .card-title,
+  .card-text {
+    margin-bottom: 10px;
+  }
+}
+
+
+
 
 
 /*********************** PARCOURS ****************/
