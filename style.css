@@ -205,6 +205,14 @@ header .button:hover a {
 }
 
 /* portfolio */
+
+header{
+  background-image: url(media/bg-portfolio.avif);
+}
+.titre-p-f{
+  color: #fbf9f7;
+}
+
 #portfolio{
   background-color: #fbf9f7;
 }
