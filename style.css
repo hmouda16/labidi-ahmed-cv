@@ -206,7 +206,7 @@ header .button:hover a {
 
 /* portfolio */
 
-header{
+.header-porfolio{
   background-image: url(media/bg.avif);
 }
 .titre-p-f{
