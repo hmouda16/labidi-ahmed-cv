@@ -206,19 +206,6 @@ header .button:hover a {
 
 /* portfolio */
 
-.header-porfolio{
-  background-image: url(media/bg.avif);
-}
-.titre-p-f{
-  color: #fbf9f7;
-}
-
-#portfolio{
-  background-color: #fbf9f7;
-}
-
-
-
 .titre {
   color: #444444;
 }
@@ -230,7 +217,7 @@ header .button:hover a {
 }
 
 
-@media (max-width: 576px) {
+/* @media (max-width: 576px) {
   .card-body {
     padding: 10px;
   }
@@ -238,7 +225,50 @@ header .button:hover a {
   .card-text {
     margin-bottom: 10px;
   }
+} */
+
+/* media querie portfolio */
+
+/* Styles pour tous les écrans */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
 }
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Styles pour les écrans plus larges que 768px
+@media screen and (min-width: 768px) {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .card {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+  }
+}
+
+/* Styles pour les écrans plus larges que 992px
+@media screen and (min-width: 992px) {
+  .card {
+    width: calc(25% - 20px);
+  }
+} 
+
+/* Styles pour les écrans plus larges que 1200px */
+/* @media screen and (min-width: 1200px) {
+  .card {
+    width: calc(20% - 20px);
+  }
+} */ 
+
 
 
 

@@ -1,3 +1,4 @@
 {
-  "explorer.copyRelativePathSeparator": "/"
+  "explorer.copyRelativePathSeparator": "/",
+  "liveServer.settings.port": 5501
 }
