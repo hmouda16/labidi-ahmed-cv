@@ -132,6 +132,20 @@ header .button:hover a {
   letter-spacing: 0.1em;
 }
 
+
+
+.bg{
+  background-color: #F2F4F4 ;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    filter: invert(100%);
+}
+
+
+
+
 /*********** FORMATION **********/
 /* 
 #formation {
@@ -780,5 +794,7 @@ footer p {
     padding: 10px 15px;
   }
 }
+
+
 
 
