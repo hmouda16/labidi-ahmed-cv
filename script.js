@@ -12,7 +12,7 @@ window.addEventListener("scroll", () => {
 // TYPED
 var typed = new Typed(".typed", {
   strings: [
-    "Bonjour, je me présente je m'appelle Ahmed . Actuellement en formation au GRETA depuis le 7 novembre2022 en développement web & web mobile, je viens vers vous pour une demande de stage .En formation nous apprenons les languages suivant : HTML/CSS, JAVASCRIPT, PHP, MYSQL, Node.js et Android studio."
+    "Bonjour, je me présente je m'appelle Ahmed . Ayant obtenu mon titre de Développeur Web et Web Mobile, je souhaite poursuivre dans cette voie en alternance, avec pour objectif de continuer à évoluer et à développer mes compétences."
   ],
   typeSpeed: 5,
   backSpeed: 0,
@@ -54,7 +54,7 @@ var typed = new Typed(".typed", {
 
 /*EXPERIENCE*/
 
-window.addEventListener("scroll", function() {
+window.addEventListener("scroll", function () {
   var section = document.getElementById("experience");
   var position = section.getBoundingClientRect();
 

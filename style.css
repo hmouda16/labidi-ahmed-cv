@@ -229,10 +229,23 @@ header .button:hover a {
 }
 
 
-.card-img-top {
+.card-img {
+    width: 100%; /* Réglez la largeur que vous souhaitez pour les images */
+    height: auto; /* Ajustez la hauteur automatiquement pour conserver le rapport hauteur/largeur d'origine */
+}
+
+.card-img-custom {
+    width: 100%; /* Réglez la largeur que vous souhaitez pour les images */
+    height: 200px; /* Réglez la hauteur que vous souhaitez pour les images */
+    object-fit: cover;
+}
+
+
+
+/* .card-img-top {
   height: auto;
   object-fit: cover;
-}
+} */
 
 
 /* @media (max-width: 576px) {
