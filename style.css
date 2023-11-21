@@ -220,15 +220,13 @@ header .button:hover a {
 
 /* portfolio */
 
-
-
-
-
 .titre {
   color: #444444;
 }
 
-
+.card{
+  height: 400px;
+}
 .card-img {
     width: 100%; /* Réglez la largeur que vous souhaitez pour les images */
     height: auto; /* Ajustez la hauteur automatiquement pour conserver le rapport hauteur/largeur d'origine */
