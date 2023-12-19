@@ -111,6 +111,11 @@ header .button:hover a {
   transition: all 0.3s ease-in-out;
 }
 
+/* .content-doc{
+  display: flex;
+  justify-content: center;
+} */
+
 /******************** COURS ************/
 
 #cours {
@@ -637,7 +642,7 @@ footer p {
 
 @media screen and (max-width: 1130px) {
   .button {
-    margin-top: 30px;
+    margin-top: 50px;
   }
 }
 
