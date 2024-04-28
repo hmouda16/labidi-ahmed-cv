@@ -12,7 +12,7 @@ window.addEventListener("scroll", () => {
 // TYPED
 var typed = new Typed(".typed", {
   strings: [
-    "Bonjour, je me présente je m'appelle Ahmed . Ayant obtenu mon titre de Développeur Web et Web Mobile, je souhaite poursuivre dans cette voie en alternance, avec pour objectif de continuer à évoluer et à développer mes compétences."
+    "Bonjour, je me présente je m'appelle Ahmed . Ayant obtenu mon titre de Développeur Web et Web Mobile, je souhaite poursuivre en Alternance Concepteur Développeur D’applications en environnement DevOps, avec pour objectif de continuer à évoluer et à développer mes compétences."
   ],
   typeSpeed: 5,
   backSpeed: 0,
