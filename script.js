@@ -12,7 +12,7 @@ window.addEventListener("scroll", () => {
 // TYPED
 var typed = new Typed(".typed", {
   strings: [
-    "Bonjour, je me présente je m'appelle Ahmed . Ayant obtenu mon titre de Développeur Web et Web Mobile, je souhaite poursuivre en Alternance Concepteur Développeur D’applications en environnement DevOps, avec pour objectif de continuer à évoluer et à développer mes compétences."
+    "Bonjour, je me présente je m'appelle Ahmed. Titulaire d'un titre de Développeur Web et Web Mobile, je souhaite poursuivre en Alternance Concepteur Développeur D’applications. <br> Ayant été admis à l'école Simplon pour une alternance en conception et développement d'applications dans un environnement DevOps, je suis actuellement à la recherche d'une opportunité au sein de votre entreprise. Mon objectif est de continuer à progresser et à développer mes compétences."
   ],
   typeSpeed: 5,
   backSpeed: 0,
